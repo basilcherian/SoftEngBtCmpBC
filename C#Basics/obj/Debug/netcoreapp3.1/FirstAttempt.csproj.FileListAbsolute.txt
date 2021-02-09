@@ -1,0 +1,13 @@
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.exe
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.deps.json
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.runtimeconfig.json
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.runtimeconfig.dev.json
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.dll
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\bin\Debug\netcoreapp3.1\FirstAttempt.pdb
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.AssemblyInfoInputs.cache
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.AssemblyInfo.cs
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.csproj.CoreCompileInputs.cache
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.dll
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.pdb
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.genruntimeconfig.cache
+C:\Users\bacher\Desktop\WorkSpace\KalAcademy\PreparationWork\FirstAttempt\obj\Debug\netcoreapp3.1\FirstAttempt.csprojAssemblyReference.cache
