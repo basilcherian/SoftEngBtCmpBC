@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace FirstAttempt
 {
@@ -309,7 +310,29 @@ namespace FirstAttempt
                 Console.WriteLine(l);
             }
 
-             //Application of READing an User Input
+            //Array manipulations: 
+            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+            Array.Sort(cars);
+            foreach (string o in cars)
+            {
+                Console.WriteLine(o);
+            }
+
+            // Sort an int
+            int[] myNumbers = { 5, 1, 8, 9 };
+            Array.Sort(myNumbers);
+            foreach (int q in myNumbers)
+            {
+                Console.WriteLine(q);
+            }
+
+            //Using Array Manipulations available through Linq
+            int[] myDigits = { 5, 1, 8, 9 };
+            Console.WriteLine(myDigits.Max());  // returns the largest value
+            Console.WriteLine(myDigits.Min());  // returns the smallest value
+            Console.WriteLine(myDigits.Sum());  // returns the sum of elements
+
+            //Application of READing an User Input
             // Type your username and press enter
             Console.WriteLine("Enter the User Name");
             // Create a string variable and get user input from the keyboard and store it in the variable
@@ -318,10 +341,7 @@ namespace FirstAttempt
             Console.WriteLine("Username is: " + userName);
             Console.WriteLine("Please Enter Your Age");
             int ageOfCandidate = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Age is:" + ageOfCandidate);
-
-
-
+            Console.WriteLine("Age is:" + ageOfCandidate);// 
         }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bacher\\Desktop\\WorkSpace\\KalAcademy\\PreparationWork\\FirstAttempt\\FirstAttempt.csproj",
+      "projectUniqueName": "C:\\Users\\bacher\\Documents\\GitHub\\SoftEngBtCmpBC\\C#Basics\\FirstAttempt.csproj",
       "projectName": "FirstAttempt",
-      "projectPath": "C:\\Users\\bacher\\Desktop\\WorkSpace\\KalAcademy\\PreparationWork\\FirstAttempt\\FirstAttempt.csproj",
+      "projectPath": "C:\\Users\\bacher\\Documents\\GitHub\\SoftEngBtCmpBC\\C#Basics\\FirstAttempt.csproj",
       "packagesPath": "C:\\Users\\bacher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bacher\\Desktop\\WorkSpace\\KalAcademy\\PreparationWork\\FirstAttempt\\obj\\",
+      "outputPath": "C:\\Users\\bacher\\Documents\\GitHub\\SoftEngBtCmpBC\\C#Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
